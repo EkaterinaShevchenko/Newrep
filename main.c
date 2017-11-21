@@ -1,5 +1,6 @@
 #include <stdlib.h>
 int main(void)
 {
-return 0;
+int k=0;
+return k;
 }
